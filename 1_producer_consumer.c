@@ -1,4 +1,5 @@
 #include <func.h>
+//生产者-消费者问题
 
 typedef struct node{
     int num;
